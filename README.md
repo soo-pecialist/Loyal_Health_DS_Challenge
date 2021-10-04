@@ -1,5 +1,7 @@
 # Soo Hyeon Kim's Loyal Health Data Science Challenge
 
+For better web-viewing experience, click [here](https://nbviewer.jupyter.org/github/soo-pecialist/Loyal_Health_DS_Challenge/blob/main/loyal_data_science_challenge_SooHyeonKim.html#Categorical-feature-engineering)
+
 - Python==3.8.8
 - pandas==1.2.4
 - numpy==1.20.1
@@ -11,3 +13,4 @@
 - textblob==0.15.3
 - statsmodels==0.12.2
 - pickle==4.0
+
